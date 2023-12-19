@@ -29,7 +29,7 @@ Specialized is an immersive online bicycle store meticulously crafted using Reac
 
 ## Deployed Link
 
-https://cycleshop-clone-2oox0gnw2-imesunny.vercel.app/
+https://phenomenal-crisp-d9f0f8.netlify.app/
 
 
 ## Tech Stack
