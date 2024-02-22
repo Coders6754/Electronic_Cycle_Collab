@@ -136,7 +136,7 @@ Contributions are always welcome!
 
 1. *Vivek Yadav*
 
-   - GitHub: [@noobnarayan](https://github.com/noobnarayan)
+   - GitHub: [@viviekyadav](https://github.com/105vivek)
 
 
 2. *Anjali Sinha*
